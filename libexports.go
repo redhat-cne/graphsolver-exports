@@ -1,7 +1,7 @@
 package libexports
 
 import (
-	l2lib "github.com/test-network-function/l2discovery-exports"
+	l2lib "github.com/redhat-best-practices-for-k8s/l2discovery-exports"
 )
 
 type SolverConfig interface {

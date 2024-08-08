@@ -1,5 +1,5 @@
-module github.com/test-network-function/graphsolver-exports
+module github.com/redhat-best-practices-for-k8s/graphsolver-exports
 
-go 1.21.4
+go 1.22.5
 
-require github.com/test-network-function/l2discovery-exports v0.0.3
+require github.com/redhat-best-practices-for-k8s/l2discovery-exports v0.0.4
