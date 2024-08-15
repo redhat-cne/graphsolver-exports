@@ -1,5 +1,5 @@
-module github.com/redhat-best-practices-for-k8s/graphsolver-exports
+module github.com/redhat-cne/graphsolver-exports
 
-go 1.22.5
+go 1.22
 
-require github.com/redhat-best-practices-for-k8s/l2discovery-exports v0.0.4
+require github.com/redhat-cne/l2discovery-exports v0.0.4
